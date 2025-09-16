@@ -3,8 +3,9 @@
 This repository is a curated collection of cybersecurity articles, whitepapers, and podcasts I’ve published or contributed to over the years across multiple platforms including Business Insider, Sysdig, Aragón Radio, and BBVA Next Technologies.
 
 ---
+# 🧠 Blogs
 
-## 📆 2023 - Sysdig Blog
+## Sysdig Blog
 
 - **[SSH-Snake: New Self-Modifying Worm Threatens Networks](https://sysdig.com/blog/ssh-snake/)**  
   Analysis of SSH-Snake, a self-replicating worm using SSH credentials to spread.
@@ -18,9 +19,17 @@ This repository is a curated collection of cybersecurity articles, whitepapers, 
 - **[Securing SSH on EC2](https://sysdig.com/blog/aws-secure-ssh-ec2-threats/)**  
   Best practices for hardening SSH access in AWS EC2 environments.
 
+## BBVA Next Technologies Blog
+
+  - **[Adversarial Machine Learning (Whitepaper)](https://www.bbvanexttechnologies.com/wp-content/uploads/2020/11/whitepaper-adversarial-machine-learning.pdf)**  
+    Explains techniques and threats related to adversarial ML.  
+    Companion repo: [Offensive AI Compilation](https://jiep.github.io/offensive-ai-compilation/)
+
+  - **[Contenido Sintético (Whitepaper)](https://www.bbvanexttechnologies.com/wp-content/uploads/2020/11/whitepaper-contenido-sintetico.pdf)**  
+    An overview of synthetic content and its implications for cybersecurity.
 ---
 
-## 🎙️ 2021 - Media & Interviews
+## 🎙️ Media & Interviews
 
 ### Aragón Radio
 - **[Hackers vs ciberdelincuentes](https://www.cartv.es/aragonradio/radio?play=podcast/104463)**  
@@ -33,20 +42,12 @@ This repository is a curated collection of cybersecurity articles, whitepapers, 
 - **[Detección de deepfakes](https://www.businessinsider.es/consejos-2-expertos-ciberseguridad-detectar-deepfakes-831319)**  
   Tips from cybersecurity experts on detecting deepfakes.
 
+### Twitch collaboration
+- **[OnTheNubs](https://www.twitch.tv/onthenubs)**
+  Fun program related with new technologies.
 ---
 
-## 🧠 2020 - BBVA Next Technologies
-
-- **[Adversarial Machine Learning (Whitepaper)](https://www.bbvanexttechnologies.com/wp-content/uploads/2020/11/whitepaper-adversarial-machine-learning.pdf)**  
-  Explains techniques and threats related to adversarial ML.  
-  Companion repo: [Offensive AI Compilation](https://jiep.github.io/offensive-ai-compilation/)
-
-- **[Contenido Sintético (Whitepaper)](https://www.bbvanexttechnologies.com/wp-content/uploads/2020/11/whitepaper-contenido-sintetico.pdf)**  
-  An overview of synthetic content and its implications for cybersecurity.
-
----
-
-## 🧪 2017 - Academic Contribution
+## 🧪 Academic Contribution
 
 - **[Análisis de la seguridad de las bases de datos orientadas a grafos](https://revistasic.es/archivo/index8463.html?option=com_content&view=article&id=1825&Itemid=1589)**  
   A research paper analyzing information leakage and design flaws in graph-oriented databases.
@@ -68,4 +69,3 @@ This repository is a curated collection of cybersecurity articles, whitepapers, 
 ## 🧩 Contributions & Future Work
 
 Feel free to fork or suggest improvements. I'm open to collaborations, expansions, and feedback. Future updates may include summaries, translated versions, or article annotations.
-
