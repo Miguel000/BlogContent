@@ -7,6 +7,27 @@ This repository is a curated collection of cybersecurity articles, whitepapers, 
 
 ## Sysdig Blog
 
+- **[Attacker exploits misconfigured AI tool to run AI-generated payload](https://www.sysdig.com/blog/attacker-exploits-misconfigured-ai-tool-to-run-ai-generated-payload)**  
+  Accidental misconfigurations where systems like Open WebUI are exposed to the internet remain a serious problem.
+
+- **[EMERALDWHALE:  15k Cloud credentials stolen in operation targeting exposed Git config files](https://www.sysdig.com/blog/emeraldwhale)**  
+  EMERALDWHALE, targeting exposed Git configurations resulting in more than 15,000 cloud service credentials stolen.
+
+- **[LLMjacking targets DeepSeek](http://sysdig.com/blog/llmjacking-targets-deepseek)**  
+  LLMjacking proxy operators have expanded access to credentials, customized their offerings, and begun including new models like DeepSeek.
+
+- **[The Growing Dangers of LLMjacking: Evolving Tactics and Evading Sanctions](https://www.sysdig.com/blog/growing-dangers-of-llmjacking)**  
+  LLMjacking is a term to describe an attacker obtaining access to an LLM illegally.
+
+- **[CRYSTALRAY: Inside the Operations of a Rising Threat Actor Exploiting OSS Tools](https://www.sysdig.com/blog/crystalray-rising-threat-actor-exploiting-oss-tools)**  
+  CRYSTALRAY's motivations are to collect and sell credentials, deploy cryptominers, and maintain persistence in victim environments.
+
+- **[DDoS-as-a-Service: The Rebirth Botnet](https://www.sysdig.com/blog/ddos-as-a-service-the-rebirth-botnet)**  
+  At the core of the RebirthLtd's business is its DDoS botnet, which is rented out to whomever is willing to pay.
+
+- **[RUBYCARP: A Detailed Analysis of a Sophisticated Decade-Old Botnet Group](https://www.sysdig.com/blog/rubycarp-romanian-botnet-group)**  
+  RUBYCARP is interested in payloads that enable financial gain. This includes cryptomining, DDoS, and Phishing.
+
 - **[SSH-Snake: New Self-Modifying Worm Threatens Networks](https://sysdig.com/blog/ssh-snake/)**  
   Analysis of SSH-Snake, a self-replicating worm using SSH credentials to spread.
 
