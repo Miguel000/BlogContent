@@ -43,8 +43,7 @@ This repository is a curated collection of cybersecurity articles, whitepapers, 
 ## BBVA Next Technologies Blog
 
   - **[Adversarial Machine Learning (Whitepaper)](https://www.bbvanexttechnologies.com/wp-content/uploads/2020/11/whitepaper-adversarial-machine-learning.pdf)**  
-    Explains techniques and threats related to adversarial ML.  
-    Companion repo: [Offensive AI Compilation](https://jiep.github.io/offensive-ai-compilation/)
+    Explains techniques and threats related to adversarial ML. - [Offensive AI Compilation](https://jiep.github.io/offensive-ai-compilation/)
 
   - **[Contenido Sintético (Whitepaper)](https://www.bbvanexttechnologies.com/wp-content/uploads/2020/11/whitepaper-contenido-sintetico.pdf)**  
     An overview of synthetic content and its implications for cybersecurity.
@@ -66,12 +65,23 @@ This repository is a curated collection of cybersecurity articles, whitepapers, 
 ### Twitch collaboration
 - **[OnTheNubs](https://www.twitch.tv/onthenubs)**
   Fun program related with new technologies.
+
+### Revista SIC
+
+- **[Análisis de la seguridad de las bases de datos orientadas a grafos](https://revistasic.es/archivo/index8463.html?option=com_content&view=article&id=1825&Itemid=1589)**  
+  A research paper analyzing information leakage and design flaws in graph-oriented databases.
 ---
 
 ## 🧪 Academic Contribution
 
-- **[Análisis de la seguridad de las bases de datos orientadas a grafos](https://revistasic.es/archivo/index8463.html?option=com_content&view=article&id=1825&Itemid=1589)**  
-  A research paper analyzing information leakage and design flaws in graph-oriented databases.
+### CECC 2017
+
+- **[Why Did I End Up Living in a Cave? Risks of IoT at home](https://revistasic.es/archivo/index8463.html?option=com_content&view=article&id=1825&Itemid=1589)**  
+
+### SECRYPT
+
+- **[(In) Security in Graph Databases - Analysis and Data Leaks](https://press.um.si/index.php/ump/catalog/book/296)**  
+  In our research, we had reviewed the design of the most widespread graph databases detecting several security problems, improper default configurations and leaks.
 
 ---
 
