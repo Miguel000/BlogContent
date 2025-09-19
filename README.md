@@ -47,6 +47,10 @@ This repository is a curated collection of cybersecurity articles, whitepapers, 
 
   - **[Contenido Sintético (Whitepaper)](https://www.bbvanexttechnologies.com/wp-content/uploads/2020/11/whitepaper-contenido-sintetico.pdf)**  
     An overview of synthetic content and its implications for cybersecurity.
+
+## El lado del mal
+
+  - **["Desenmascarar" cuentas de Twitter a través de Sinfonier](https://www.elladodelmal.com/2015/12/desenmascarar-cuentas-de-twitter-traves.html)**  
 ---
 
 ## 🎙️ Media & Interviews
@@ -57,6 +61,12 @@ This repository is a curated collection of cybersecurity articles, whitepapers, 
 
 - **[Ciberseguridad en verano](https://www.cartv.es/aragonradio/radio?play=podcast/108338)**  
   How to stay cyber-safe during summer vacations.
+
+### Aragon Inteligencia
+
+- **[Tardes de Ciberseguridad Unizar](https://araintel.com/articulos/dia-a-dia-de-un-investigador-de-ciberseguridad-en-sysdig/)**  
+  ¿Cómo es el día a día de un investigador de ciberseguridad en Sysdig?
+
 
 ### Business Insider
 - **[Detección de deepfakes](https://www.businessinsider.es/consejos-2-expertos-ciberseguridad-detectar-deepfakes-831319)**  
